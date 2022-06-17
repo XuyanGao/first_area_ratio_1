@@ -1,0 +1,212 @@
+,R_Coefficient,C_Coefficient,Country,Code
+Africa_Eastern,25.65,10.73,Burundi,BDI
+,25.65,10.73,Comoros,COM
+,25.65,10.73,Djibouti,DJI
+,25.65,10.73,Eritrea,ERI
+,25.65,10.73,Ethiopia,ETH
+,25.65,10.73,Kenya,KEN
+,25.65,10.73,Madagascar,MDG
+,25.65,10.73,Mauritius,MUS
+,25.65,10.73,Reunion,REU
+,25.65,10.73,Rwanda,RWA
+,25.65,10.73,Sudan,SDN
+,25.65,10.73,Somalia,SOM
+,25.65,10.73,Uganda,UGA
+Africa_Northern,25.84,11.03,Algeria,DZA
+,25.84,11.03,Egypt,EGY
+,25.84,11.03,Western Sahara,
+,25.84,11.03,Libya,LBY
+,25.84,11.03,Morocco,MAR
+,25.84,11.03,Tunisia,TUN
+Africa_Southern,22.55,9.34,Angola,AGO
+,22.55,9.34,Botswana,BWA
+,22.55,9.34,Lesotho,LSO
+,22.55,9.34,Mozambique,MOZ
+,22.55,9.34,Malawi,MWI
+,22.55,9.34,Namibia,NAM
+,22.55,9.34,Swaziland,SWZ
+,22.55,9.34,Tanzania,TZA
+,22.55,9.34,Zambia,ZMB
+,22.55,9.34,Zimbabwe,ZWE
+Africa_Western,23.66,9.85,Benin,BEN
+,23.66,9.85,Burkina Faso,BFA
+,23.66,9.85,Central African Republic,CAF
+,23.66,9.85,Cote d¡¯Ivoire,CIV
+,23.66,9.85,Cameroon,CMR
+,23.66,9.85,Democratic Republic of the Congo,COD
+,23.66,9.85,Congo,COG
+,23.66,9.85,Cape Verde,CPV
+,23.66,9.85,Gabon,GAB
+,23.66,9.85,Ghana,GHA
+,23.66,9.85,Guinea,GIN
+,23.66,9.85,Gambia,GMB
+,23.66,9.85,Guinea-Bissau,GNB
+,23.66,9.85,Equatorial Guinea,GNQ
+,23.66,9.85,Liberia,LBR
+,23.66,9.85,Mali,MLI
+,23.66,9.85,Mauritania,MRT
+,23.66,9.85,Niger,NER
+,23.66,9.85,Nigeria,NGA
+,23.66,9.85,Senegal,SEN
+,23.66,9.85,Sierra Leone,SLE
+,23.66,9.85,Sao Tome and Principe,STP
+,23.66,9.85,Chad,TCD
+,23.66,9.85,Togo,TGO
+Argentina,30.17,14.57,Argentina,ARG
+Australia_NZ,44.6,21.1,Australia,AUS
+,44.6,21.1,New Zealand,NZL
+Brazil,29.68,14.42,Brazil,BRA
+Canada,42.73,22.39,Canada,CAN
+Central America and Caribbean,31.06,14.77,Aruba,ABW
+,31.06,14.77,Anguilla,AIA
+,31.06,14.77,Netherlands Antilles,ANG
+,31.06,14.77,Antigua & Barbuda,ATG
+,31.06,14.77,Bahamas,BHS
+,31.06,14.77,Belize,BLZ
+,31.06,14.77,Bermuda,BMU
+,31.06,14.77,Barbados,BRB
+,31.06,14.77,Costa Rica,CRI
+,31.06,14.77,Cuba,CUB
+,31.06,14.77,Cayman Islands,CYM
+,31.06,14.77,Dominica,DMA
+,31.06,14.77,Dominican Republic,DOM
+,31.06,14.77,Guadeloupe,GLP
+,31.06,14.77,Grenada,GRD
+,31.06,14.77,Guatemala,GTM
+,31.06,14.77,Honduras,HND
+,31.06,14.77,Haiti,HTI
+,31.06,14.77,Jamaica,JAM
+,31.06,14.77,Saint Kitts and Nevis,KNA
+,31.06,14.77,Saint Lucia,LCA
+,31.06,14.77,Montserrat,MSR
+,31.06,14.77,Martinique,MTQ
+,31.06,14.77,Nicaragua,NIC
+,31.06,14.77,Panama,PAN
+,31.06,14.77,El Salvador,SLV
+,31.06,14.77,Trinidad and Tobago,TTO
+,31.06,14.77,Saint Vincent and the Grenadines,VCT
+Central Asia,38.5,14.15,Armenia,ARM
+,38.5,14.15,Azerbaijan,AZE
+,38.5,14.15,Georgia,GEO
+,38.5,14.15,Kazakhstan,KAZ
+,38.5,14.15,Kyrgyzstan,KGZ
+,38.5,14.15,Mongolia,MNG
+,38.5,14.15,Tajikistan,TJK
+,38.5,14.15,Turkmenistan,TKM
+,38.5,14.15,Uzbekistan,UZB
+China,37.24,15.87,China,CHN
+Colombia,31.34,14.99,Colombia,COL
+EU©\12,36.38,13.15,Bulgaria,BGR
+,36.38,13.15,Cyprus,CYP
+,36.38,13.15,Czech Republic,CZE
+,36.38,13.15,Estonia,EST
+,36.38,13.15,Hungary,HUN
+,36.38,13.15,Lithuania,LTU
+,36.38,13.15,Latvia,LVA
+,36.38,13.15,Malta,MLT
+,36.38,13.15,Poland,POL
+,36.38,13.15,Romania,ROU
+,36.38,13.15,Slovakia,SVK
+,36.38,13.15,Slovenia,SVN
+EU©\15,36.28,21.7,Andorra,AND
+,36.28,21.7,Austria,AUT
+,36.28,21.7,Belgium,BEL
+,36.28,21.7,Denmark,DNK
+,36.28,21.7,Finland,FIN
+,36.28,21.7,France,FRA
+,36.28,21.7,Germany,DEU
+,36.28,21.7,Greece,GRC
+,36.28,21.7,Greenland,GRL
+,36.28,21.7,Ireland,IRL
+,36.28,21.7,Italy,ITA
+,36.28,21.7,Luxembourg,LUX
+,36.28,21.7,Monaco,MCO
+,36.28,21.7,Netherlands,NLD
+,36.28,21.7,Portugal,PRT
+,36.28,21.7,Sweden,SWE
+,36.28,21.7,Spain,ESP
+,36.28,21.7,United Kingdom,GBR
+Europe_Non_EU,48.96,21.31,Albania,ALB
+,48.96,21.31,Bosnia and Herzegovina,BIH
+,48.96,21.31,Croatia,HRV
+,48.96,21.31,Macedonia,MKD
+,48.96,21.31,Montenegro,MNE
+,48.96,21.31,Serbia,SRB
+,48.96,21.31,Turkey,TUR
+India,29.03,9.04,India,IND
+Indonesia,25.12,12.95,Indonesia,JPN
+Japan,26.86,17.76,Japan,KOR
+Mexico,29.38,14.76,Mexico,MEX
+Middle East,31.5,16.2,United Arab Emirates,ARE
+,31.5,16.2,Bahrain,BHR
+,32.5,16.2,Iran,IRN
+,31.5,16.2,Iraq,IRQ
+,33.5,16.2,Israel,ISR
+,31.5,16.2,Jordan,JOR
+,34.5,16.2,Kuwait,KWT
+,31.5,16.2,Lebanon,LBN
+,35.5,16.2,Oman,OMN
+,31.5,16.2,Palestine,PSE
+,36.5,16.2,Qatar,QAT
+,31.5,16.2,Saudi Arabia,SAU
+,37.5,16.2,Syria,SYR
+,31.5,16.2,Yemen,YEM
+Pakistan,20.84,10.9,Pakistan,PAK
+Russia,37.63,14.13,Russia,RUS
+South Africa,23.58,7.41,South Africa,ZAF
+South America_Northern,31.09,15.21,French Guiana,GUF
+,31.09,15.21,Guyana,GUY
+,31.09,15.21,Suriname,SUR
+,31.09,15.21,Venezuela,VEN
+South America_Southern,30.99,14.8,Bolivia,BOL
+,30.99,14.8,Chile,CHL
+,30.99,14.8,Ecuador,ECU
+,30.99,14.8,Peru,PER
+,30.99,14.8,Paraguay,PRY
+,30.99,14.8,Uruguay,URY
+South Asia,29.27,14.76,Afghanistan,AFG
+,29.27,14.76,Bangladesh,BGD
+,29.27,14.76,Bhutan,BTN
+,29.27,14.76,Sri Lanka,LKA
+,29.27,14.76,Maldives,MDV
+,29.27,14.76,Nepal,NPL
+South Korea,26.65,13.73,South Korea,KOR
+Southeast Asia,30.9,14,American Samoa,ASM
+,30.9,14,Brunei Darussalam,BRN
+,30.9,14,Cocos (Keeling) Islands,CCK
+,30.9,14,Cook Islands,COK
+,30.9,14,Christmas Island,CXR
+,30.9,14,Fiji,FJI
+,30.9,14,Federated States of Micronesia,FSM
+,30.9,14,Guam,GUM
+,30.9,14,Cambodia,KHM
+,30.9,14,Kiribati,KIR
+,30.9,14,Lao Peoples Democratic Republic,LAO
+,30.9,14,Marshall Islands,MHL
+,30.9,14,Myanmar,MMR
+,30.9,14,Northern Mariana Islands,MNP
+,30.9,14,Malaysia,MYS
+,30.9,14,Mayotte,MYT
+,30.9,14,New Caledonia,NCL
+,30.9,14,Norfolk Island,NFK
+,30.9,14,Niue,NIU
+,30.9,14,Nauru,NRU
+,30.9,14,Pacific Islands Trust Territory,
+,30.9,14,Pitcairn Islands,PCN
+,30.9,14,Philippines,PHL
+,30.9,14,Palau,PLW
+,30.9,14,Papua New Guinea,PNG
+,30.9,14,Democratic Peoples Republic of Korea,PRK
+,30.9,14,French Polynesia,PYF
+,30.9,14,Singapore,SGP
+,30.9,14,Solomon Islands,SLB
+,30.9,14,Seychelles,SYC
+,30.9,14,Thailand,THA
+,30.9,14,Tokelau,TKL
+,30.9,14,Timor Leste,TLS
+,30.9,14,Tonga,TON
+,30.9,14,Tuvalu,TUV
+,30.9,14,Viet Nam,VNM
+,30.9,14,Vanuatu,VUT
+,30.9,14,Samoa,WSM
+USA,47.49,25.75,USA,USA
